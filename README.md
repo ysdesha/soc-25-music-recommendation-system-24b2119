@@ -46,6 +46,8 @@ Learned about activation functions, forward pass, and the concept of learning we
 Explored how CNNs extract features from images using convolution and pooling layers.  
 Understood their application in image classification tasks.
 
+---
+
 ####  ASSIGNMNET – Handwritten Digit Recognition  
 Implemented a CNN model to classify handwritten digits from the MNIST dataset.  
 Built layers like `Conv2D`, `MaxPooling2D`, and `Dense` for prediction.
