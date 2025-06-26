@@ -12,7 +12,7 @@ This repository documents my learning journey through the SOC-25. The goal is to
 
 ---
 
-###  Week 1: Python & Tools Setup  
+###  WEEK 1: Python & Tools Setup  
 **Goal**: Get comfortable with the basic tools and Python required for machine learning.
 
 #### 🔹 Python Fundamentals  
@@ -31,7 +31,7 @@ Understood the use of core libraries like:
 
 ---
 
-###  Week 2: Introduction to Machine Learning & Deep Learning  
+###  WEEK 2: Introduction to Machine Learning & Deep Learning  
 **Goal**: Understand the fundamental concepts behind ML models and how neural networks work.
 
 #### 🔹 Machine Learning Basics  
@@ -46,7 +46,7 @@ Learned about activation functions, forward pass, and the concept of learning we
 Explored how CNNs extract features from images using convolution and pooling layers.  
 Understood their application in image classification tasks.
 
-#### 📌 Assignment – Handwritten Digit Recognition  
+####  ASSIGNMNET – Handwritten Digit Recognition  
 Implemented a CNN model to classify handwritten digits from the MNIST dataset.  
 Built layers like `Conv2D`, `MaxPooling2D`, and `Dense` for prediction.
 
@@ -54,7 +54,7 @@ Built layers like `Conv2D`, `MaxPooling2D`, and `Dense` for prediction.
 
 ---
 
-###  Week 3: Data Preprocessing & Model Evaluation  
+###  WEEK 3: Data Preprocessing & Model Evaluation  
 **Goal**: Learn how to clean data, engineer features, and evaluate ML models effectively.
 
 #### 🔹 Preprocessing with Scikit-learn  
