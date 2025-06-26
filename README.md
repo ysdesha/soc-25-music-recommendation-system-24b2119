@@ -64,7 +64,18 @@ This repository documents my learning journey through the SOC-55 program. The go
 In the upcoming weeks, I aim to:
 - Implement a music recommendation system using content-based or collaborative filtering.
 
+-
 ---
 
 ## 📂 Repository Structure
+
+soc-25-music-recommendation-system-24b2119/
+├── assignment/
+│ ├── digit_recognition_cnn.ipynb # Week 2 CNN assignment notebook
+│ ├── SOC assignment report.pdf # Assignment report in PDF format
+│ └── README.md # Summary of the assignment
+├── README.md # Main summary (Weeks 1–3)
+
+
+
 
