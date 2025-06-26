@@ -6,13 +6,13 @@
 
 ---
 
-## 📘 Summary of Learning
+## Summary of Learning
 
-This repository documents my learning journey through the SOC-55 program. The goal is to build a Music Recommendation System while learning key concepts in Python, Machine Learning, and Deep Learning.
+This repository documents my learning journey through the SOC-25. The goal is to build a Music Recommendation System while learning key concepts in Python, Machine Learning, and Deep Learning.
 
 ---
 
-###  Week 1: Python & Tool Setup
+### WEEK 1: Python & Tool Setup
 
 **Objective**: Get familiar with Python programming and the tools used for ML projects.
 
@@ -25,30 +25,30 @@ This repository documents my learning journey through the SOC-55 program. The go
 
 ---
 
-###  Week 2: Introduction to Machine Learning & Deep Learning
+### WEEK 2: Introduction to Machine Learning & Deep Learning
 
 **Objective**: Understand the basics of machine learning and build intuition about neural networks and CNNs.
 
 #### 🔹 Machine Learning
 - Understood supervised learning, including linear and logistic regression.
-- Learned how to train models on labeled data and evaluate predictions.
+- LearnT how to train models on labeled data and evaluate predictions.
 
 #### 🔹 Neural Networks
 - Studied the structure of a neural network: input, hidden, and output layers.
-- Learned how data flows through a network and how weights are updated using backpropagation.
+- LearnT how data flows through a network and how weights are updated using backpropagation.
 - Explored activation functions like ReLU and Sigmoid.
 
 #### 🔹 Convolutional Neural Networks (CNNs)
-- Learned how CNNs detect patterns using convolution and pooling layers.
+- LearNT how CNNs detect patterns using convolution and pooling layers.
 - Understood how CNNs are used for image classification tasks.
 
-#### 📌 Mini Project: Handwritten Digit Recognition (MNIST)
+#### ASSIGNMNET: Handwritten Digit Recognition (MNIST)
 - Built and trained a CNN to classify handwritten digits from the MNIST dataset.
 - Used convolutional, pooling, flatten, and dense layers to achieve high accuracy.
-
+➡️ [View Assignment Folder](./assignment/)
 ---
 
-###  Week 3: Data Preprocessing & Evaluation
+### WEEK 3: Data Preprocessing & Evaluation
 
 **Objective**: Learn how to clean data, engineer features, and evaluate model performance.
 
@@ -59,23 +59,8 @@ This repository documents my learning journey through the SOC-55 program. The go
 
 ---
 
-##  Project Goal (Upcoming)
 
-In the upcoming weeks, I aim to:
-- Implement a music recommendation system using content-based or collaborative filtering.
 
--
----
-```
-## 📂 Repository Structure
 
-soc-25-music-recommendation-system-24b2119/
-├── assignment/
-│ ├── digit_recognition_cnn.ipynb # Week 2 CNN assignment notebook
-│ ├── SOC assignment report.pdf # Assignment report in PDF format
-│ └── README.md # Summary of the assignment
-├── README.md # Main summary (Weeks 1–3)
-
-```
 
 
