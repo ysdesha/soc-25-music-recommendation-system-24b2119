@@ -12,55 +12,62 @@ This repository documents my learning journey through the SOC-25. The goal is to
 
 ---
 
-### WEEK 1: Python & Tool Setup
+###  Week 1: Python & Tools Setup  
+**Goal**: Get comfortable with the basic tools and Python required for machine learning.
 
-**Objective**: Get familiar with Python programming and the tools used for ML projects.
+#### 🔹 Python Fundamentals  
+Learned about variables, data types, control flow (if, loops), functions, and basic data structures like lists and dictionaries.  
+Practiced writing clean, readable code.
 
-- Learned core Python concepts: variables, functions, loops, and data structures.
-- Explored Jupyter Notebook and Google Colab for writing and running code interactively.
-- Practiced using essential Python libraries like:
-  - `NumPy` for numerical operations
-  - `Pandas` for data analysis
-  - `Matplotlib` and `Seaborn` for data visualization
+#### 🔹 Working with Jupyter & Colab  
+Explored how to use Jupyter Notebook and Google Colab for interactive Python coding.  
+Learned how to write, run, and debug Python cells in notebook format.
+
+#### 🔹 Python Libraries  
+Understood the use of core libraries like:  
+- **NumPy** (numerical computing)  
+- **Pandas** (data manipulation)  
+- **Matplotlib** and **Seaborn** (visualization)
 
 ---
 
-### WEEK 2: Introduction to Machine Learning & Deep Learning
+###  Week 2: Introduction to Machine Learning & Deep Learning  
+**Goal**: Understand the fundamental concepts behind ML models and how neural networks work.
 
-**Objective**: Understand the basics of machine learning and build intuition about neural networks and CNNs.
+#### 🔹 Machine Learning Basics  
+Learned about supervised learning, particularly linear and logistic regression.  
+Understood how ML models are trained and evaluated using data.
 
-#### 🔹 Machine Learning
-- Understood supervised learning, including linear and logistic regression.
-- LearnT how to train models on labeled data and evaluate predictions.
+#### 🔹 Neural Networks  
+Studied how neurons are connected in layers to form deep learning models.  
+Learned about activation functions, forward pass, and the concept of learning weights.
 
-#### 🔹 Neural Networks
-- Studied the structure of a neural network: input, hidden, and output layers.
-- LearnT how data flows through a network and how weights are updated using backpropagation.
-- Explored activation functions like ReLU and Sigmoid.
+#### 🔹 Convolutional Neural Networks (CNNs)  
+Explored how CNNs extract features from images using convolution and pooling layers.  
+Understood their application in image classification tasks.
 
-#### 🔹 Convolutional Neural Networks (CNNs)
-- LearNT how CNNs detect patterns using convolution and pooling layers.
-- Understood how CNNs are used for image classification tasks.
+#### 📌 Assignment – Handwritten Digit Recognition  
+Implemented a CNN model to classify handwritten digits from the MNIST dataset.  
+Built layers like `Conv2D`, `MaxPooling2D`, and `Dense` for prediction.
 
-#### ASSIGNMNET: Handwritten Digit Recognition (MNIST)
-- Built and trained a CNN to classify handwritten digits from the MNIST dataset.
-- Used convolutional, pooling, flatten, and dense layers to achieve high accuracy.
 ➡️ [View Assignment Folder](./assignment/)
----
-
-### WEEK 3: Data Preprocessing & Evaluation
-
-**Objective**: Learn how to clean data, engineer features, and evaluate model performance.
-
-- Used Scikit-learn’s preprocessing tools for scaling, normalization, and encoding.
-- Built ML pipelines to automate workflows.
-- Explored feature engineering and data cleaning techniques from Kaggle.
-- Learned key model evaluation metrics: accuracy, precision, recall, F1-score, and confusion matrix.
 
 ---
 
+###  Week 3: Data Preprocessing & Model Evaluation  
+**Goal**: Learn how to clean data, engineer features, and evaluate ML models effectively.
 
+#### 🔹 Preprocessing with Scikit-learn  
+Learned how to scale, normalize, and encode data using preprocessing tools in `scikit-learn`.
 
+#### 🔹 Pipelines  
+Understood how to chain preprocessing steps and model training into a single pipeline for cleaner workflows.
 
+#### 🔹 Feature Engineering  
+Studied how to create, select, or transform input features to improve model performance.
 
+#### 🔹 Model Evaluation  
+Learned key metrics for classification problems — precision, recall, F1-score, accuracy, and confusion matrix.  
+Understood how to interpret these metrics for real-world decision-making.
 
+---
