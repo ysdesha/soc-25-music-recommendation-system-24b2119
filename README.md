@@ -1,9 +1,5 @@
 # SOC-25: Music Recommendation System (ID:55)
 
-**Program**: Summer of Code 2024  
-**Organized by**: Web and Coding Club (WnCC), IIT Bombay  
-**Student**: Esha Yindukuri (24B2119)
-
 ---
 
 ## Summary of Learning
