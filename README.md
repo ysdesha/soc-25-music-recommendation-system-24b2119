@@ -66,7 +66,7 @@ In the upcoming weeks, I aim to:
 
 -
 ---
-
+```
 ## 📂 Repository Structure
 
 soc-25-music-recommendation-system-24b2119/
@@ -76,6 +76,6 @@ soc-25-music-recommendation-system-24b2119/
 │ └── README.md # Summary of the assignment
 ├── README.md # Main summary (Weeks 1–3)
 
-
+```
 
 
