@@ -43,7 +43,7 @@ Understood their application in image classification tasks.
 
 ---
 
-####  ASSIGNMNET – Handwritten Digit Recognition  
+####  ASSIGNMENT – Handwritten Digit Recognition  
 Implemented a CNN model to classify handwritten digits from the MNIST dataset.  
 Built layers like `Conv2D`, `MaxPooling2D`, and `Dense` for prediction.
 
@@ -62,6 +62,9 @@ Understood how to chain preprocessing steps and model training into a single pip
 
 #### 🔹 Feature Engineering  
 Studied how to create, select, or transform input features to improve model performance.
+
+#### 🔹 Data Cleaning  
+Learned techniques to handle missing values, remove duplicates, and fix inconsistent entries.
 
 #### 🔹 Model Evaluation  
 Learned key metrics for classification problems — precision, recall, F1-score, accuracy, and confusion matrix.  
