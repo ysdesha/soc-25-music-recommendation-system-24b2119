@@ -1,5 +1,3 @@
-# soc-25-music-recommendation-system-24b2119
-
 # SOC-25: Music Recommendation System (ID:55)
 
 **Program**: Summer of Code 2024  
@@ -14,7 +12,7 @@ This repository documents my learning journey through the SOC-55 program. The go
 
 ---
 
-### 🧰 Week 1: Python & Tool Setup
+###  Week 1: Python & Tool Setup
 
 **Objective**: Get familiar with Python programming and the tools used for ML projects.
 
@@ -27,7 +25,7 @@ This repository documents my learning journey through the SOC-55 program. The go
 
 ---
 
-### 🤖 Week 2: Introduction to Machine Learning & Deep Learning
+###  Week 2: Introduction to Machine Learning & Deep Learning
 
 **Objective**: Understand the basics of machine learning and build intuition about neural networks and CNNs.
 
@@ -50,7 +48,7 @@ This repository documents my learning journey through the SOC-55 program. The go
 
 ---
 
-### 🧪 Week 3: Data Preprocessing & Evaluation
+###  Week 3: Data Preprocessing & Evaluation
 
 **Objective**: Learn how to clean data, engineer features, and evaluate model performance.
 
@@ -61,7 +59,7 @@ This repository documents my learning journey through the SOC-55 program. The go
 
 ---
 
-## 🚀 Project Goal (Upcoming)
+##  Project Goal (Upcoming)
 
 In the upcoming weeks, I aim to:
 - Implement a music recommendation system using content-based or collaborative filtering.
