@@ -4,10 +4,9 @@ This project builds a content-based music recommender using Spotify's audio feat
 
 ## 📁 Files
 
-- [Exploratory_data_analysis.ipynb](Exploratory_data_analysis.ipynb) – EDA, genre & song clustering (KMeans, PCA, t-SNE)
-- [Music_recommendation_system.ipynb](Music_recommendation_system.ipynb) – Recommender using cosine similarity
-
-
+- [Exploratory_data_analysis.ipynb](Project/Exploratory_data_analysis.ipynb) – EDA, genre & song clustering (KMeans, PCA, t-SNE)
+- [Music_recommendation_system.ipynb](Project/Music_recommendation_system.ipynb) – Recommender using cosine similarity
+  
 ## 📌 Features
 
 - Analyze trends in music across decades
