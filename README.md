@@ -1,5 +1,32 @@
 # SOC-25: Music Recommendation System (ID:55)
 
+This project builds a content-based music recommender using Spotify's audio features.
+
+## 📁 Files
+
+- [Exploratory_data_analysis.ipynb](Exploratory_data_analysis.ipynb) – EDA, genre & song clustering (KMeans, PCA, t-SNE)
+- [Music_recommendation_system.ipynb](Music_recommendation_system.ipynb) – Recommender using cosine similarity
+
+
+## 📌 Features
+
+- Analyze trends in music across decades
+- Cluster similar songs & genres
+- Recommend top 10 similar songs based on user input
+
+## 🧠 Tech Stack
+
+- Python, Pandas, scikit-learn
+- Plotly, Seaborn, Matplotlib
+
+## 🚀 Run
+
+Upload the dataset and run notebooks in order:
+1. `Exploratory_data_analysis.ipynb`
+2. `Music_recommendation_system.ipynb`
+
+---
+
 
 ## Summary of Learning
 
